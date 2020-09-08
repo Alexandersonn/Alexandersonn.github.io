@@ -1,0 +1,58 @@
+<eventpage action="EDIT" url="event?output=xml&amp;sf=true&amp;hl=en&amp;eid=aW05am05OTNjOGFkdTg1ZmNoNTFxODQ0MDAgYW9tMjU3OEBt&amp;src=YW9tMjU3OEBnbWFpbC5jb20" access-level="60" specialized="false" has-overrides="false" lang="en" current-action="VIEW" can-respond="true" can-add-self="false"><features><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/><feature enabled="true"/><feature enabled="false"/><feature enabled="false"/></features>
+<ref-date><value>20160916</value></ref-date>
+<eid><value>aW05am05OTNjOGFkdTg1ZmNoNTFxODQ0MDAgYW9tMjU3OEBt</value></eid>
+<raw-eid><value>im9jm993c8adu85fch51q84400</value></raw-eid>
+<erev><value>1473925693012000</value></erev>
+<self is-signed-in="true" has-weekends="true"><principal id="YW9tMjU3OEBnbWFpbC5jb20" status="5" type="0"><value>aom2578@gmail.com</value>
+<display>aom2578@gmail.com</display>
+</principal></self>
+<secid><value>5yelhhEFfVpeRTplbYT6s5F91Lc</value></secid>
+<summary access="editable" editing="false"><value>&lt;script&gt;alert("parrot")&lt;/script&gt;</value></summary>
+<attachments access="editable" editing="false"/>
+<conference-data>W10K</conference-data>
+<dates access="editable" editing="false"><value>20161001T013000/20161001T023000</value>
+<display>Sat Oct 1 1:30am – Sat Oct 1 2:30am</display>
+<start-date>9/30/2016</start-date>
+<start-time>1:30am</start-time>
+<end-date>9/30/2016</end-date>
+<end-time>2:30am</end-time></dates>
+<unbounded><value>false</value></unbounded>
+
+
+
+<rrule access="editable" editing="false" interval="1" wkst="SU"><value/>
+<display/></rrule>
+<timezone visible="false"><value>America/Los_Angeles</value>
+<display>Pacific Time</display></timezone>
+<attendees access="editable" editing="false" remainingAttendees="200"/>
+<location access="editable" editing="false"><value/>
+</location>
+<conflictResolutionMode access="editable" editing="false"><value>BUSY</value>
+<blocking/>
+<display>Busy</display></conflictResolutionMode>
+<class access="editable" editing="false"><value>DEFAULT</value>
+<display>Calendar default</display></class>
+<description access="editable" editing="false"><value>dog is cool</value>
+<html>dog is cool</html></description>
+<reminders access="editable" editing="true" sms-verified="false"><reminder method="3" secs-lead="1800"/> <reminder method="1" secs-lead="600"/></reminders>
+<reminder-te-defaults><reminder method="3" secs-lead="1800"/> <reminder method="1" secs-lead="600"/></reminder-te-defaults>
+<reminder-ade-defaults/>
+<creator><principal id="YW9tMjU3OEBnbWFpbC5jb20" status="5" type="0"><value>aom2578@gmail.com</value>
+<display>aom2578@gmail.com</display>
+</principal></creator>
+<organizer><principal id="YW9tMjU3OEBnbWFpbC5jb20" status="5" type="0"><value>aom2578@gmail.com</value>
+<display>aom2578@gmail.com</display>
+</principal></organizer>
+<private-copy><value>false</value></private-copy>
+<source-calendar access="editable" editing="false"><principal id="YW9tMjU3OEBnbWFpbC5jb20" status="5" type="0"><value>aom2578@gmail.com</value>
+<display>Alex Molina</display>
+</principal></source-calendar>
+<shared-property name="goo.allowInviteYourself" access="editable" editing="true"><value>false</value></shared-property> <shared-property name="goo.allowInvitesOther" access="editable" editing="true"><value>true</value></shared-property> <shared-property name="goo.allowModify" access="editable" editing="true"><value>false</value></shared-property> <shared-property name="goo.allowComments" access="editable" editing="true"><value>true</value></shared-property> <shared-property name="goo.showInvitees" access="editable" editing="true"><value>true</value></shared-property> <shared-property name="goo.createdBySet" access="readonly" editing="false"><value/></shared-property>
+<private-property name="SS_asid" access="editable" editing="true"><value/></private-property> <private-property name="gmailid" access="readonly" editing="false"><value/></private-property> <private-property name="eventColor" access="editable" editing="true"><value>none</value></private-property> <private-property name="gmailsubject" access="readonly" editing="false"><value/></private-property> <private-property name="SS_slotsize" access="editable" editing="true"><value/></private-property>
+<calendars/>
+<comments access="editable" editing="false"/>
+<modules><module module-id="4"/> <module module-id="6"/> <module module-id="8"/></modules>
+<messages-to-user/>
+
+<smartmail><value>false</value></smartmail>
+</eventpage>
